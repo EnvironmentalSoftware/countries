@@ -1,14 +1,13 @@
 ##Israel
-## population: 9 million
+## population
 
-
-## capital: Jerusalem
+## capital
 
  
-## official language: Hebrew
+## official language
 
 
-## interesting trivia: Great beaches
+## interesting trivia
 
 
 
