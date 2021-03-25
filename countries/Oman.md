@@ -1,5 +1,6 @@
-##Oman
-Muscat
+## Oman
+
+
 ## population
 
 
