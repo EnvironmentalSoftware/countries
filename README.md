@@ -15,3 +15,5 @@ untilty provided by GitHub at [https://import.github.com](https://import.github.
 ####Disclaimer
 
 This is a work in progress
+
+It is easier to create new repository for a group exercise each time, so that this stays clean.
